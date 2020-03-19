@@ -13,7 +13,7 @@ export default function Signup(props) {
     }, [])
 
     return (
-        <StyledDiv isLeft>
+        <StyledDiv >
             <div className="container">
                 <div className="wrapper">
                     {/* left side */}
